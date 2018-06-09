@@ -1,0 +1,12 @@
+{
+  "name": "LeetCode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "771 Jewels and Stones.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
